@@ -1,0 +1,241 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.ddsada{
+    width: 100%;
+    margin: 0 auto;
+       min-height: 55px;
+     background-color: whitesmoke;
+     box-sizing: border-box;
+}
+.kaka{
+  
+    width: 100%;
+     margin: 0 auto;
+        min-height: 750px;
+     background-color: whitesmoke;
+     box-sizing: border-box;
+}
+.zaza{
+    width: 100%;
+     margin: 0 auto;
+        min-height: 300px;
+     box-sizing: border-box;
+}	
+.lala{
+    width: 100%;
+     margin: 0 auto;
+     background-color: whitesmoke;
+     box-sizing: border-box;
+}
+.oaoa{
+    width: 100%;
+     margin: 0 auto;
+        min-height: 300px;
+             box-sizing: border-box;
+    }
+.can{
+	height: 35px;
+	display: flex;
+	align-items: center;
+}
+.conteiner{
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+.d{
+	width: 100%;
+	max-width: 115px;
+	flex-wrap: wrap;
+	display: flex;
+	align-items: end;
+	justify-content: end;
+}
+.logo{
+	width: 100%;
+	
+	background-color: whitesmoke;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	position: relative;
+	flex-wrap: wrap;
+}
+.menu{
+	width: 100%;
+	max-width: 446px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    flex-wrap: wrap;
+}
+.a{
+	    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+.menu div:hover{
+	color: gray;
+}
+.dott{
+	width: 100%;
+	border-radius: 100%;
+	max-width: 5px;
+	height: 5px;
+	background-color: orange;
+	position: absolute;
+}
+.logo2{
+	width: 100%;
+	max-width: 300px;
+	padding-left: 24px;
+    padding-right: 22px;	
+}
+.box{
+	width: 100%;
+	max-width: 1000px;
+	height: 750px;
+	background-color: whitesmoke;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.box img{
+	max-width: 155px;
+	width: 100%;
+
+}
+.logo2 h1{
+	width: 100px;
+}
+.logo2 p{
+	font-size: 14px;
+}
+.tan{
+	width: 100%;
+	background-color: white;
+	max-width: 1000px;	
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.frag1{
+	width: 100%;
+	max-width: 105px;
+	   padding: 10px 0px 10px 0px;
+}
+.frag1 h1{
+	width:100px;
+}
+.frag1 p{
+	width: 100px;
+}
+.frag2{
+	width: 210px;
+    padding-left: 55px;
+}
+.frag2 h1{
+    width: 100px;
+}
+.frag2 p{
+    width: 100px;
+}
+.frag3{
+	width: 100%;
+    max-width: 135px;
+    padding: 10px 0px 10px 25px;
+}
+.portofio{
+	height: 1765px;
+	background-color: whitesmoke;
+}
+.port{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 65px;
+}
+.portofio img{
+	width: 100%;
+    max-width: 930px;
+    
+}
+.portofio{
+	width: 100%;
+	max-width: 1000px;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+    flex-direction: column;
+}
+.portofio a{
+	color: black;
+}
+.contacts{
+	width: 100%;
+	background-color: white;
+	max-width: 1000px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.cont img{
+	width: 100%;
+	height: 50px;	
+	max-width: 50px;	
+	padding: 10px;
+}
+.cont h1{
+	display: flex;
+	justify-content: center;	
+}
+.cont p{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+}
+.cont span{
+	color: whitesmoke;
+	display: flex;	
+	justify-content: center;
+}
+.send{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+}
+.send a{
+	width: 100%;
+	left: 50px;
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+	max-width: 140px;
+	background-color: black;
+
+	text-decoration: none;
+	color: white;
+	height: 20px;
+}
+ @media screen and (max-width: 980px){
+
+ }
+ .cont{
+ 	padding: 0px;
+ }
+ .imgh{
+ 	padding-left: 15px;
+ }
